@@ -5,5 +5,3 @@ Login feature implementation
 Login feature implementation Started
 
 Login and Authentication API Implementation
-
-Payment API Implementation
