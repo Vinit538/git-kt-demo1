@@ -7,3 +7,5 @@ Login feature implementation Started
 Login and Authentication API Implementation
 
 Added Payment API Implementation
+
+Email Service Implementation
