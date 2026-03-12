@@ -4,4 +4,4 @@ Login feature implementation
 
 Login feature implementation Started
 
-Authentication API Implementation
+Login and Authentication API Implementation
